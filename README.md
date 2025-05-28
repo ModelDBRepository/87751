@@ -37,8 +37,6 @@ The files in both of these archives are identical and are suitable for compiling
 
 ---
 
-*Created by Ian Bruce <ibruce@ieee.org> - last modified Thursday, December 20, 2007*
-
----
-
-2025-05-27 – Standardized to Markdown
+*Created by Ian Bruce <ibruce@ieee.org>*
+- last modified Thursday, December 20, 2007
+- Standardized to Markdown, May 27, 2025
